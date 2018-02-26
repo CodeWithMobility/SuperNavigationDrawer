@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScalableNavigationDrawer</string>
+
+    <!--Drawer Menus-->
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="feed">My Feed</string>
+    <string name="rate_us">Rate Us</string>
+
+
+
+    <!--Drawer-->
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+</resources>
